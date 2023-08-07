@@ -1,0 +1,4 @@
+todo
+    - se clicado muda fundo e texto (Copied)
+      * esta bugado
+      * mudar bg para verde
